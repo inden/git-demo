@@ -2,5 +2,3 @@
 
 This is the first file.
 
-second
-third
